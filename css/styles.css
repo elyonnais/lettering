@@ -11,6 +11,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-family: 'Lilita One', arial;
+  text-align: center;
 }
 
 h1 span:nth-child(odd) {
