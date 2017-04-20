@@ -1,0 +1,13 @@
+/* Styling */
+body {
+    background: rgba(0, 240, 194, 0.71);
+}
+
+.thetitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+span.word7 {
+  color: orange;
+}

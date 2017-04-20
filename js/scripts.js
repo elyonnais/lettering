@@ -1,0 +1,4 @@
+// Scripts
+
+
+$(".thetitle").lettering('words');
