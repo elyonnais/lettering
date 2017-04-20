@@ -1,4 +1,4 @@
 // Scripts
 
 
-$(".thetitle").lettering('words');
+$('h1').lettering();

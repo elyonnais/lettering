@@ -1,13 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One');
+
 /* Styling */
 body {
-    background: rgba(0, 240, 194, 0.71);
+    background: rgba(3, 3, 72, 0.92);
 }
 
-.thetitle {
+h1 {
+  font-size: 3em;
+  color: goldenrod;
   text-transform: uppercase;
   letter-spacing: 2px;
+  font-family: 'Lilita One', arial;
 }
 
-span.word7 {
-  color: orange;
+h1 span:nth-child(odd) {
+  color: rgb(227, 185, 191);
 }
